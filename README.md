@@ -1,4 +1,4 @@
-Open-Source FPGA Bitcoin Miner
+Open-Source FPGA Bitcoin Miner (SoCKIT fork)
 ==============================================
 
 --------------------------------------------------------------------------------
@@ -19,6 +19,8 @@ http://bitcoin.org/
 
 Project Status
 --------------
+
+This fork adds support for SoCKIT.
 
 Project is fully functional and allows mining of Bitcoins both in a Pool and Solo.
 It also supports Namecoins.
